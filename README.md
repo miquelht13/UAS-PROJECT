@@ -1,6 +1,6 @@
 Hello there :D !
 
-In here you can find some codes in python3 used in a university UAS project.
+In here you can find some codes in python3 used for an university UAS project.
 
 Initial Codes:
 - Code to learn how you can detect a color by using an image
